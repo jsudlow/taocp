@@ -27,7 +27,7 @@ function get_gcd($a, $b) {
 
     }
 
-    echo "M  " . $m . "iteration " . $counter . "\n";
+    echo "M " . $m . "iteration " . $counter . "\n";
     echo "N " . $n . "iteration " . $counter . "\n";
   }
 
