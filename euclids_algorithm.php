@@ -5,7 +5,11 @@
 //start with the remainder is one, the opposite of the terminating condition
 
 
-//we use hard coded values for M and N 
+//I turned this into a function so people can play around 
+// with it using their own variables. Having this algorithm 
+//is useful to have in the computer because Knuth dicusses
+//the efficiency of it and its nice to verify how what he says
+//actually effects the performance of the algorithm 
 
 
 function get_gcd($a, $b) {
